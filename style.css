@@ -1,14 +1,18 @@
 .navbar-position{
+    position: fixed;
     width: 100%;
+    top: 0;
+    left: 0;
 }
-.container {
-    position: relative;
-}
+
 .form-wrap {
     width:100%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color:lightgrey;
+    background-image: url(photo-1616555831792-ad1167d4da2a.webp);
+    background-size: cover;
 }
 
